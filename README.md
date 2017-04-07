@@ -3,7 +3,8 @@
 
 A list of tools for video stream
 
-- [Analysers](#analysers)
+- [Analyzers](#analyzers)
+    - [hls-analyzer](#hls-analyzer)
 
 
 - [Players](#players)
@@ -26,7 +27,8 @@ A list of tools for video stream
 - [Tools](#tools)
 
 
-## Analysers
+## Analyzers
+* [hls-analyzer](https://github.com/epiclabs-io/hls-analyzer) - Analyzer for HTTP Live Streams (HLS) content in Python
 
 ## Players
 * [Clappr](https://github.com/clappr/clappr/) - An extensible media player for the web. http://clappr.io (http://clappr.io)
