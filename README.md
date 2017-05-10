@@ -5,6 +5,7 @@ A list of tools for video stream
 
 - [Analyzers](#analyzers)
     - [hls-analyzer](#hls-analyzer)
+    - [murphy](#murphy)
 
 
 - [Players](#players)
@@ -24,11 +25,18 @@ A list of tools for video stream
     - [Red5](#red5)
     - [Wowza](#wowza)
 
-- [Tools](#tools)
+
+- [Monitoring](#monitoring)
+    - [nginx-rtmp-monitoring](#nginx-rtmp-monitoring)
+    
+
+- [Other Tools](#tools)
 
 
 ## Analyzers
 * [hls-analyzer](https://github.com/epiclabs-io/hls-analyzer) - Analyzer for HTTP Live Streams (HLS) content in Python
+* [murphy](https://github.com/videojs/murphy) - Live Stream error simulator
+
 
 ## Players
 * [Clappr](https://github.com/clappr/clappr/) - An extensible media player for the web. http://clappr.io (http://clappr.io)
@@ -42,5 +50,10 @@ A list of tools for video stream
 
 
 ## Servers
+
+
+## Monitoring
+* [nginx-rtmp-monitoring](https://github.com/fiftysoft/nginx-rtmp-monitoring) - real-time monitoring statistics dashboard for nginx rtmp module
+
 
 ## Tools
